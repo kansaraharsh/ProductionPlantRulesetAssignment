@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\bin\Debug\net8.0\ProductionPlant.Application.deps.json
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\bin\Debug\net8.0\ProductionPlant.Application.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\bin\Debug\net8.0\ProductionPlant.Application.pdb
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\bin\Debug\net8.0\ProductionPlant.Domain.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\bin\Debug\net8.0\ProductionPlant.Domain.pdb
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\obj\Debug\net8.0\ProductionPlant.Application.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\obj\Debug\net8.0\ProductionPlant.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\obj\Debug\net8.0\ProductionPlant.Application.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\obj\Debug\net8.0\ProductionPlant.Application.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\obj\Debug\net8.0\ProductionPlant.Application.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\obj\Debug\net8.0\Producti.992C608A.Up2Date
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\obj\Debug\net8.0\ProductionPlant.Application.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\obj\Debug\net8.0\refint\ProductionPlant.Application.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\obj\Debug\net8.0\ProductionPlant.Application.pdb
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Application\obj\Debug\net8.0\ref\ProductionPlant.Application.dll

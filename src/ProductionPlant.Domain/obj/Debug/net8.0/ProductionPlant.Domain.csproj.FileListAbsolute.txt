@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\bin\Debug\net8.0\ProductionPlant.Domain.deps.json
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\bin\Debug\net8.0\ProductionPlant.Domain.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\bin\Debug\net8.0\ProductionPlant.Domain.pdb
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\obj\Debug\net8.0\ProductionPlant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\obj\Debug\net8.0\ProductionPlant.Domain.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\obj\Debug\net8.0\ProductionPlant.Domain.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\obj\Debug\net8.0\ProductionPlant.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\obj\Debug\net8.0\ProductionPlant.Domain.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\obj\Debug\net8.0\refint\ProductionPlant.Domain.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\obj\Debug\net8.0\ProductionPlant.Domain.pdb
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Domain\obj\Debug\net8.0\ref\ProductionPlant.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\bin\Release\net8.0\ProductionPlant.Infrastructure.deps.json
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\bin\Release\net8.0\ProductionPlant.Infrastructure.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\bin\Release\net8.0\ProductionPlant.Infrastructure.pdb
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\bin\Release\net8.0\ProductionPlant.Application.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\bin\Release\net8.0\ProductionPlant.Domain.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\bin\Release\net8.0\ProductionPlant.Domain.pdb
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\bin\Release\net8.0\ProductionPlant.Application.pdb
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\obj\Release\net8.0\ProductionPlant.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\obj\Release\net8.0\ProductionPlant.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\obj\Release\net8.0\ProductionPlant.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\obj\Release\net8.0\ProductionPlant.Infrastructure.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\obj\Release\net8.0\ProductionPlant.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\obj\Release\net8.0\Producti.B6729486.Up2Date
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\obj\Release\net8.0\ProductionPlant.Infrastructure.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\obj\Release\net8.0\refint\ProductionPlant.Infrastructure.dll
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\obj\Release\net8.0\ProductionPlant.Infrastructure.pdb
+C:\Users\ADMIN\Downloads\ProductionPlantRulesetAssignment\src\ProductionPlant.Infrastructure\obj\Release\net8.0\ref\ProductionPlant.Infrastructure.dll

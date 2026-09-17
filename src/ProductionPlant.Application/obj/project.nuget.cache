@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pPP9ljYL9QE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\ProductionPlantRulesetAssignment\\src\\ProductionPlant.Application\\ProductionPlant.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,58 @@
+{
+  "rulesets": [
+    {
+      "name": "Ruleset One",
+      "conditions": [
+        { "field": "PublisherNumber", "operator": "Equals", "value": "99990" },
+        { "field": "OrderMethod", "operator": "Equals", "value": "POD" }
+      ],
+      "rules": [
+        {
+          "name": "Rule 1",
+          "conditions": [
+            { "field": "BindTypeCode", "operator": "Equals", "value": "PB" },
+            { "field": "IsCountry", "operator": "Equals", "value": "US" },
+            { "field": "PrintQuantity", "operator": "LessThanOrEqual", "value": "20" }
+          ],
+          "result": { "ProductionPlant": "US" }
+        }
+      ]
+    },
+    {
+      "name": "Ruleset Two",
+      "conditions": [
+        { "field": "PublisherNumber", "operator": "Equals", "value": "99999" },
+        { "field": "OrderMethod", "operator": "Equals", "value": "POD" }
+      ],
+      "rules": [
+        {
+          "name": "Rule 1",
+          "conditions": [
+            { "field": "BindTypeCode", "operator": "Equals", "value": "PB" },
+            { "field": "IsCountry", "operator": "Equals", "value": "US" },
+            { "field": "PrintQuantity", "operator": "LessThanOrEqual", "value": "20" }
+          ],
+          "result": { "ProductionPlant": "US" }
+        },
+        {
+          "name": "Rule 2",
+          "conditions": [
+            { "field": "BindTypeCode", "operator": "Equals", "value": "CV" },
+            { "field": "IsCountry", "operator": "Equals", "value": "UK" },
+            { "field": "PrintQuantity", "operator": "LessThanOrEqual", "value": "20" }
+          ],
+          "result": { "ProductionPlant": "UK" }
+        },
+        {
+          "name": "Rule 3",
+          "conditions": [
+            { "field": "BindTypeCode", "operator": "Equals", "value": "PB" },
+            { "field": "IsCountry", "operator": "Equals", "value": "US" },
+            { "field": "PrintQuantity", "operator": "GreaterThanOrEqual", "value": "20" }
+          ],
+          "result": { "ProductionPlant": "KGL" }
+        }
+      ]
+    }
+  ]
+}

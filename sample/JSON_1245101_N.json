@@ -1,0 +1,33 @@
+{
+  "orderId": "1245101",
+  "publisherNumber": "99999",
+  "publisherName": "BookWorld Ltd",
+  "orderMethod": "POD",
+  "shipments": [
+    {
+      "shipTo": {
+        "isoCountry": "US"
+      }
+    }
+  ],
+  "items": [
+    {
+      "sku": "PB-001",
+      "printQuantity": 10,
+      "components": [
+        {
+          "code": "Cover",
+          "attributes": {
+            "BindTypeCode": "PB"
+          }
+        },
+        {
+          "code": "Content",
+          "attributes": {
+            "BindTypeCode": "PB"
+          }
+        }
+      ]
+    }
+  ]
+}

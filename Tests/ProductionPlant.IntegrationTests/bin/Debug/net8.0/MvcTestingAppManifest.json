@@ -1,0 +1,6 @@
+{
+  "ProductionPlant.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ADMIN\\Downloads\\ProductionPlantRulesetAssignment\\src\\ProductionPlant.Api",
+  "ProductionPlant.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ADMIN\\Downloads\\ProductionPlantRulesetAssignment\\src\\ProductionPlant.Application",
+  "ProductionPlant.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ADMIN\\Downloads\\ProductionPlantRulesetAssignment\\src\\ProductionPlant.Domain",
+  "ProductionPlant.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ADMIN\\Downloads\\ProductionPlantRulesetAssignment\\src\\ProductionPlant.Infrastructure"
+}
